@@ -1,0 +1,213 @@
+[
+    {
+      "customerId": "C001",
+      "customerName": "Dasa Widodo",
+      "email": "jusamah@cv.my.id",
+      "phone": "+62 (341) 682 2296",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C002",
+      "customerName": "dr. Agnes Prasetyo, S.Psi",
+      "email": "kambali28@cv.int",
+      "phone": "+62 (348) 350 3357",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C003",
+      "customerName": "Sutan Najam Wahyuni, S.Ked",
+      "email": "bajragin14@gmail.com",
+      "phone": "+62 (53) 778-1679",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C004",
+      "customerName": "Agung Prasetya, M.Si",
+      "email": "margaretta40@smk.sch.id",
+      "phone": "08121074657",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C005",
+      "customerName": "Sri Mayasari",
+      "email": "febriyaniayuning@pd.sch.id",
+      "phone": "+62 (36) 786 7811",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C006",
+      "customerName": "Wahyu Maulana",
+      "email": "kalianda59@univ.sch.id",
+      "phone": "087820117303",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C007",
+      "customerName": "Imas Pertiwi, S.Hum",
+      "email": "titi_halim@cv.id",
+      "phone": "+62 (531) 847-0453",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C008",
+      "customerName": "Sultan Handayani, M.T.",
+      "email": "fikrihisyam@perguruan.sch.id",
+      "phone": "08991257397",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C009",
+      "customerName": "Cut Amelia Riyanti, S.E.",
+      "email": "galuhkuswoyo@pd.or.id",
+      "phone": "+62 (92) 038-3524",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C010",
+      "customerName": "Farid Rahmawati, S.Sn.",
+      "email": "galangpangestu@univ.sch.id",
+      "phone": "+62 (487) 395-1347",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C011",
+      "customerName": "Siti Nabella, S.Kom",
+      "email": "putrasuharto@gmail.com",
+      "phone": "+62 (859) 115 2577",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C012",
+      "customerName": "Yuliana Puspa",
+      "email": "dayatfauzan@edu.sch.id",
+      "phone": "+62 (546) 232-8823",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C013",
+      "customerName": "Malika Maryati",
+      "email": "oktayusuf@perguruan.sch.id",
+      "phone": "+62 (91) 288-1112",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C014",
+      "customerName": "Fitriani Hakim, M.TI.",
+      "email": "ferdyrosyidi@univ.or.id",
+      "phone": "089619034227",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C015",
+      "customerName": "Vivi Mustofa",
+      "email": "natanegara93@gmail.com",
+      "phone": "085544303410",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C016",
+      "customerName": "Nanda Sihombing",
+      "email": "reniatami@univ.sch.id",
+      "phone": "081252991324",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C017",
+      "customerName": "Hana Syailendra, S.Pd",
+      "email": "devidwidia@univ.sch.id",
+      "phone": "+62 (919) 460 2987",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C018",
+      "customerName": "Aldi Kurniawan",
+      "email": "fahrizalgaluh@kampus.sch.id",
+      "phone": "087810960572",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C019",
+      "customerName": "Desi Lestari",
+      "email": "martinisabrina@univ.my.id",
+      "phone": "+62 (389) 063-4293",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C020",
+      "customerName": "Fauzi Salim, M.Sn",
+      "email": "nurwahid@pd.sch.id",
+      "phone": "+62 (938) 689-1124",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C021",
+      "customerName": "Gilang Setiawan",
+      "email": "gilangsetiawan@gmail.com",
+      "phone": "087800665522",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C022",
+      "customerName": "Ratna Maharani",
+      "email": "ratnamah@gmail.com",
+      "phone": "085255441123",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C023",
+      "customerName": "Ayu Kristanti",
+      "email": "ayukris@pd.sch.id",
+      "phone": "+62 (553) 452-3345",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C024",
+      "customerName": "Ahmad Lazuardi",
+      "email": "lazuardiahmad@pd.sch.id",
+      "phone": "085110223344",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C025",
+      "customerName": "Nia Wardani",
+      "email": "niawardani@univ.or.id",
+      "phone": "+62 (351) 774-1283",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C026",
+      "customerName": "Budi Haryanto",
+      "email": "budihary@edu.sch.id",
+      "phone": "085240311700",
+      "loyalty": "Bronze"
+    },
+    {
+      "customerId": "C027",
+      "customerName": "Dewi Anggraini",
+      "email": "anggraindewi@univ.sch.id",
+      "phone": "081234567890",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C028",
+      "customerName": "Rudi Saputra",
+      "email": "rudisaputra@pd.sch.id",
+      "phone": "085766987654",
+      "loyalty": "Silver"
+    },
+    {
+      "customerId": "C029",
+      "customerName": "Sari Melati",
+      "email": "melatisari@gmail.com",
+      "phone": "082144443333",
+      "loyalty": "Gold"
+    },
+    {
+      "customerId": "C030",
+      "customerName": "Yusuf Zulkarnain",
+      "email": "zulkarnainyusuf@univ.my.id",
+      "phone": "083812345678",
+      "loyalty": "Bronze"
+    }
+  ]
+  

@@ -1,0 +1,213 @@
+[
+    {
+      "orderId": "O0001",
+      "customerName": "Vivi Mustofa",
+      "status": "Completed",
+      "totalPrice": 452967,
+      "orderDate": "2025-03-03"
+    },
+    {
+      "orderId": "O0002",
+      "customerName": "Fitriani Hakim, M.TI.",
+      "status": "Completed",
+      "totalPrice": 108485,
+      "orderDate": "2025-03-14"
+    },
+    {
+      "orderId": "O0003",
+      "customerName": "Malika Maryati",
+      "status": "Completed",
+      "totalPrice": 132920,
+      "orderDate": "2025-04-07"
+    },
+    {
+      "orderId": "O0004",
+      "customerName": "Fauzi Salim, M.Sn",
+      "status": "Pending",
+      "totalPrice": 110462,
+      "orderDate": "2025-03-30"
+    },
+    {
+      "orderId": "O0005",
+      "customerName": "Cut Amelia Riyanti, S.E.",
+      "status": "Completed",
+      "totalPrice": 484223,
+      "orderDate": "2025-03-09"
+    },
+    {
+      "orderId": "O0006",
+      "customerName": "Cut Amelia Riyanti, S.E.",
+      "status": "Cancelled",
+      "totalPrice": 438101,
+      "orderDate": "2025-04-06"
+    },
+    {
+      "orderId": "O0007",
+      "customerName": "Yuliana Puspa",
+      "status": "Pending",
+      "totalPrice": 223781,
+      "orderDate": "2025-03-01"
+    },
+    {
+      "orderId": "O0008",
+      "customerName": "Yuliana Puspa",
+      "status": "Cancelled",
+      "totalPrice": 160295,
+      "orderDate": "2025-04-01"
+    },
+    {
+      "orderId": "O0009",
+      "customerName": "Siti Nabella, S.Kom",
+      "status": "Cancelled",
+      "totalPrice": 413519,
+      "orderDate": "2025-03-14"
+    },
+    {
+      "orderId": "O0010",
+      "customerName": "Farid Rahmawati, S.Sn.",
+      "status": "Completed",
+      "totalPrice": 157196,
+      "orderDate": "2025-04-05"
+    },
+    {
+      "orderId": "O0011",
+      "customerName": "Farid Rahmawati, S.Sn.",
+      "status": "Completed",
+      "totalPrice": 189022,
+      "orderDate": "2025-03-28"
+    },
+    {
+      "orderId": "O0012",
+      "customerName": "Nanda Sihombing",
+      "status": "Pending",
+      "totalPrice": 354129,
+      "orderDate": "2025-03-24"
+    },
+    {
+      "orderId": "O0013",
+      "customerName": "Hana Syailendra, S.Pd",
+      "status": "Cancelled",
+      "totalPrice": 306514,
+      "orderDate": "2025-04-10"
+    },
+    {
+      "orderId": "O0014",
+      "customerName": "Hana Syailendra, S.Pd",
+      "status": "Cancelled",
+      "totalPrice": 182914,
+      "orderDate": "2025-03-05"
+    },
+    {
+      "orderId": "O0015",
+      "customerName": "Aldi Kurniawan",
+      "status": "Completed",
+      "totalPrice": 498129,
+      "orderDate": "2025-04-13"
+    },
+    {
+      "orderId": "O0016",
+      "customerName": "Aldi Kurniawan",
+      "status": "Completed",
+      "totalPrice": 276028,
+      "orderDate": "2025-04-02"
+    },
+    {
+      "orderId": "O0017",
+      "customerName": "Desi Lestari",
+      "status": "Pending",
+      "totalPrice": 490871,
+      "orderDate": "2025-03-13"
+    },
+    {
+      "orderId": "O0018",
+      "customerName": "Desi Lestari",
+      "status": "Cancelled",
+      "totalPrice": 262540,
+      "orderDate": "2025-03-08"
+    },
+    {
+      "orderId": "O0019",
+      "customerName": "Dasa Widodo",
+      "status": "Cancelled",
+      "totalPrice": 415929,
+      "orderDate": "2025-04-03"
+    },
+    {
+      "orderId": "O0020",
+      "customerName": "Dasa Widodo",
+      "status": "Pending",
+      "totalPrice": 177292,
+      "orderDate": "2025-04-15"
+    },
+    {
+      "orderId": "O0021",
+      "customerName": "dr. Agnes Prasetyo, S.Psi",
+      "status": "Pending",
+      "totalPrice": 382900,
+      "orderDate": "2025-03-17"
+    },
+    {
+      "orderId": "O0022",
+      "customerName": "Sutan Najam Wahyuni, S.Ked",
+      "status": "Completed",
+      "totalPrice": 379127,
+      "orderDate": "2025-03-31"
+    },
+    {
+      "orderId": "O0023",
+      "customerName": "Agung Prasetya, M.Si",
+      "status": "Completed",
+      "totalPrice": 126773,
+      "orderDate": "2025-03-11"
+    },
+    {
+      "orderId": "O0024",
+      "customerName": "Sri Mayasari",
+      "status": "Cancelled",
+      "totalPrice": 139701,
+      "orderDate": "2025-03-07"
+    },
+    {
+      "orderId": "O0025",
+      "customerName": "Wahyu Maulana",
+      "status": "Cancelled",
+      "totalPrice": 258712,
+      "orderDate": "2025-03-22"
+    },
+    {
+      "orderId": "O0026",
+      "customerName": "Wahyu Maulana",
+      "status": "Completed",
+      "totalPrice": 192030,
+      "orderDate": "2025-03-21"
+    },
+    {
+      "orderId": "O0027",
+      "customerName": "Imas Pertiwi, S.Hum",
+      "status": "Pending",
+      "totalPrice": 301786,
+      "orderDate": "2025-03-06"
+    },
+    {
+      "orderId": "O0028",
+      "customerName": "Imas Pertiwi, S.Hum",
+      "status": "Completed",
+      "totalPrice": 192022,
+      "orderDate": "2025-03-12"
+    },
+    {
+      "orderId": "O0029",
+      "customerName": "Sultan Handayani, M.T.",
+      "status": "Pending",
+      "totalPrice": 211324,
+      "orderDate": "2025-03-15"
+    },
+    {
+      "orderId": "O0030",
+      "customerName": "Cut Amelia Riyanti, S.E.",
+      "status": "Pending",
+      "totalPrice": 53770,
+      "orderDate": "2025-03-15"
+    }
+  ]
+  
