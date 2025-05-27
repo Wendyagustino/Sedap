@@ -12,8 +12,10 @@ const Forgot = React.lazy(() => import("./pages/Auth/Forgot"));
 const NotFound = React.lazy(() => import("./components/NotFound"));
 const MainLayout = React.lazy(() => import("./layouts/MainLayout"));
 const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
-const Loading = React.lazy(() => import("./components/Loading"));
+import Loading from "./components/Loading";
 const Users = React.lazy(() => import("./pages/Users"));
+import Products from "./pages/Products";
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"));
 
 function App() {
   return(
@@ -26,6 +28,9 @@ function App() {
 
                   <Route path="/form" element={<Form />} />
                   <Route path="/users" element={<Users />} />
+
+                  <Route path="products" element={<Products />} />
+                  <Route path="/products/:id" element={<ProductDetail />} /> 
 
                 </Route>
 

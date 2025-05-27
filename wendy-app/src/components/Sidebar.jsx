@@ -3,6 +3,7 @@ import { AiOutlineUnorderedList } from "react-icons/ai";
 import { AiFillHome } from "react-icons/ai"; 
 import { FaHome } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
+import { MdFastfood } from "react-icons/md"; 
 
 export default function Sidebar() {
     const menuClass = ({ isActive }) =>
@@ -58,6 +59,16 @@ export default function Sidebar() {
                         <AiOutlineUser />
                         Error 403</NavLink>
 	                </li>
+                    <li>
+                        <NavLink
+                                id="menu-4"
+                                to="/products"
+                                className={menuClass}
+                            >
+                                <MdFastfood className="mr-4 text-xl" />
+                                Products
+                        </NavLink>
+                    </li>
                 </ul>
             </div>
 
